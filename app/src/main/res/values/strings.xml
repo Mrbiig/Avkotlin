@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_product_list">ProductListActivity</string>
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="title_activity_product_registration">ProductRegistrationActivity</string>
+    <string name="title_activity_estatisticas">EstatisticasActivity</string>
+</resources>
